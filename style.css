@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+}
+header{
+    border: 2px solid black;
+    padding: 21px;
+    text-align: center;
+}
+.container{
+    height: 70vh;
+}
+.nav{
+    width: 25.3%;
+    height: 100%;
+    border: 2px solid black;
+    float: left;
+}
+.nav-inside{
+    margin: 2%;
+    width: 95%;
+    height: 95%;
+    border: 2px solid black;
+}
+.pag{
+    border: 2px solid black;
+    width: 74%;
+    height: 100%;
+    float: left;
+}
+footer{
+    border: 2px solid black;
+    text-align: center;
+    clear: both;
+}
+
+.menu1, .menu2, .menu3, .menu4{
+    border: 2px solid black;
+}
+ .menu1{
+    background-color: cadetblue;
+    margin-bottom: 107%;
+ }
